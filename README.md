@@ -1,5 +1,6 @@
 ![image](https://github.com/user-attachments/assets/9348dd96-3780-42d1-b278-16be2e4fd176)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Bernard_DJOKO/symptom-triage-chatbot/blob/main/phase1_symptom_triage_chatbot.ipynb)
 
 
 # Chatbot-for-Patient-Symptom-Triage-Recommendation
