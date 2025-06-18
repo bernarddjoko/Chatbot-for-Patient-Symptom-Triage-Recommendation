@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9348dd96-3780-42d1-b278-16be2e4fd176)
+
 
 
 # Chatbot-for-Patient-Symptom-Triage-Recommendation
