@@ -48,5 +48,16 @@ Due to access issues, we used a custom simulated CSV based on MedDialog structur
 
 ## 🔁 Example Chatbot Interaction
 User: I have a sore throat and mild fever.<br>
-Bot: Based on your symptoms, I recommend: SELF-CARE
-Bot: Any other symptoms? (yes/no)
+Bot: Based on your symptoms, I recommend: SELF-CARE<br>
+Bot: Any other symptoms? (yes/no)<br>
+
+
+---
+
+## 🧠 Phase 2 Plans
+
+- Incorporate full MedDialog dataset
+- Add clinical NER with SciSpacy/BioBERT
+- Integrate speech input (Whisper API)
+- Streamlit UI and MongoDB for logs
+
