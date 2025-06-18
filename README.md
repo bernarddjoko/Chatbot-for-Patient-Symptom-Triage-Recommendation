@@ -47,6 +47,6 @@ Due to access issues, we used a custom simulated CSV based on MedDialog structur
 ---
 
 ## 🔁 Example Chatbot Interaction
-User: I have a sore throat and mild fever.
+User: I have a sore throat and mild fever.<br>
 Bot: Based on your symptoms, I recommend: SELF-CARE
 Bot: Any other symptoms? (yes/no)
