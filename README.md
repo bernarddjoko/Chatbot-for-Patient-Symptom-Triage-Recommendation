@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # Chatbot-for-Patient-Symptom-Triage-Recommendation
 
 # 🩺 Symptom Triage Chatbot (NLP Capstone – Phase 1)
